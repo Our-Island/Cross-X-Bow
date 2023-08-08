@@ -1,0 +1,10 @@
+{
+    "values": [
+        "common:population_trigger",
+        "lobby:team_delete_add",
+        "lobby:join_game_trigger",
+        "lobby:lobby_effect",
+        "lobby:war_effect",
+        "lobby:new"
+    ]
+}
