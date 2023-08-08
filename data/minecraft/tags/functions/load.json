@@ -5,6 +5,8 @@
         "lobby:join_game_trigger",
         "lobby:lobby_effect",
         "lobby:war_effect",
-        "lobby:new"
+        "lobby:new",
+        "lobby:waiting/ready_number_trigger",
+        "lobby:waiting/need_number"
     ]
 }
