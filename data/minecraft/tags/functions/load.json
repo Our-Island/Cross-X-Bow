@@ -8,6 +8,7 @@
         "lobby:new",
         "lobby:waiting/ready_number_trigger",
         "lobby:waiting/need_number",
-        "lobby:waiting/toggle_lock_trigger"
+        "lobby:waiting/toggle_lock_trigger",
+        "lobby:waiting/bossbar"
     ]
 }
