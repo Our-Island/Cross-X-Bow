@@ -4,11 +4,16 @@
         "lobby:team_delete_add",
         "lobby:join_game_trigger",
         "lobby:lobby_effect",
-        "lobby:war_effect",
+        "game:process/war_effect",
         "lobby:new",
         "lobby:waiting/ready_number_trigger",
         "lobby:waiting/need_number",
         "lobby:waiting/toggle_lock_trigger",
-        "lobby:waiting/bossbar"
+        "lobby:waiting/bossbar",
+        "game:start/trigger_countdown",
+        "game:process/death_trigger",
+        "game:process/survive_number_trigger",
+        "game:end/trigger_end",
+        "common:xp_control"        
     ]
 }

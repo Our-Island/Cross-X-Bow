@@ -1,0 +1,14 @@
+{
+    "replace":false,
+    "values": [
+        "minecraft:air",
+        "minecraft:stone_button",
+        "minecraft:light",
+        "#minecraft:all_signs",
+        "minecraft:lever",
+        "#common:trapdoor",
+        "minecraft:snow",
+        "minecraft:cobweb",
+        "minecraft:structure_void"
+    ]
+}

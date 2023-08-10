@@ -1,0 +1,16 @@
+data merge block -81 68 84 {Lock:"钥匙"}
+data merge block -37 70 6 {Lock:"钥匙"}
+data merge block -29 69 -65 {Lock:"钥匙"}
+data merge block -62 69 -75 {Lock:"钥匙"}
+data merge block -92 69 -75 {Lock:"钥匙"}
+data merge block -87 68 94 {Lock:"钥匙"}
+data merge block -3 68 8 {Lock:"钥匙"}
+data merge block 86 68 -113 {Lock:"钥匙"}
+data merge block 111 71 55 {Lock:"钥匙"}
+data merge block -21 69 143 {Lock:"钥匙"}
+data merge block -120 75 49 {Lock:"钥匙"}
+data merge block 132 76 -18 {Lock:"钥匙"}
+data merge block -2 69 -73 {Lock:"钥匙"}
+data merge block 125 65 -174 {Lock:"钥匙"}
+data merge block 97 69 -3 {Lock:"钥匙"}
+data merge block 71 67 79 {Lock:"钥匙"}

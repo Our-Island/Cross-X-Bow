@@ -1,0 +1,2 @@
+execute at @a run summon minecraft:firework_rocket ~ ~1.5 ~ {FireworksItem: {tag: {Fireworks: {Flight: 1, Explosions: [{Trail: 1b, Flicker: 1b, Type: 0, Colors: [I; 9502564], FadeColors: [I; 14286713]}]}}, id: "minecraft:firework_rocket", Count: 1}, Life: 0, LifeTime: 30}
+schedule function game:end/celebration_3 5t append
