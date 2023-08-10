@@ -1,3 +1,4 @@
+scoreboard players reset @e[tag=tool] game_time
 kill @e[type=item]
 kill @e[type=arrow]
 kill @e[type=spectral_arrow]
@@ -11,9 +12,11 @@ scoreboard players set @e[tag=tool] game_stage 0
 tp @a 0 69.3 0
 scoreboard players set @a team 0
 gamemode adventure @a
+function common:clear_ground
 function lobby:lobby_effect
 function lobby:waiting/bossbar
 function lobby:waiting/need_number
 function lobby:waiting/ready_number_trigger
 function lobby:waiting/toggle_lock_trigger
+function lobby:waiting/weapon_lock_trigger
 function game:start/trigger_countdown

@@ -17,7 +17,7 @@ team join ready @a[scores={team=0,toggle_ready=1}]
 team remove war
 team add war {"text":"战斗成员","color":"red"}
 team modify war friendlyFire true
-team modify war nametagVisibility never
+team modify war nametagVisibility always
 team modify war color red
 team join war @a[scores={team=1}]
 
@@ -26,5 +26,6 @@ team add spectator {"text":"旁观者","color":"gray"}
 team modify spectator friendlyFire false
 team modify spectator nametagVisibility always
 team join spectator @a[scores={team=2}]
+team modify spectator color gray
 
 schedule function lobby:team_delete_add 2s append

@@ -14,6 +14,13 @@
         "game:process/death_trigger",
         "game:process/survive_number_trigger",
         "game:end/trigger_end",
-        "common:xp_control"        
+        "common:xp_control",
+        "game:process/game_time",
+        "game:process/bossbar",
+        "game:process/kill_void",
+        "game:process/border",
+        "game:start/slow_falling_clear",
+        "lobby:waiting/weapon_lock_trigger",
+        "common:lock_gamemode"
     ]
 }
